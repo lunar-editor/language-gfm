@@ -23,6 +23,9 @@
       },
       {
         "include": "#flavors"
+      },
+      {
+        "include": "text.html.basic"
       }
     ],
     "repository": {
